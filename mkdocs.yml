@@ -20,8 +20,8 @@ theme:
     primary: 'indigo'
     accent: 'indigo'
   font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
+    text: 'B612'
+    code: 'B612 Mono'
   logo:
     icon: 'book'
   feature: null
