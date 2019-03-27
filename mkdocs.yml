@@ -23,7 +23,7 @@ theme:
     text: 'B612'
     code: 'B612 Mono'
   logo:
-    icon: 'book'
+    icon: 'offline-bolt'
   feature: null
 
 
