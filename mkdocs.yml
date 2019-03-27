@@ -44,8 +44,8 @@ markdown_extensions:
   - meta
 
 # Page tree
-nav:
-  - Home: index.md
-  - Obstetrics: obs.md
-  - Conditions:
-    - Angioedema: conditions/angioedema.md
+#nav:
+#  - Home: index.md
+#  - Obstetrics: obs.md
+#  - Conditions:
+#    - Angioedema: conditions/angioedema.md
