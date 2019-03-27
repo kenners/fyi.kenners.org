@@ -17,8 +17,8 @@ theme:
   custom_dir: 'theme/mkdocs-material/material'
   language: 'en'
   palette:
-    primary: 'indigo'
-    accent: 'indigo'
+    primary: 'teal'
+    accent: 'teal'
   font:
     text: 'B612'
     code: 'B612 Mono'
