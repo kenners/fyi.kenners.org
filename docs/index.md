@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Welcome to Kenners QRH
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+This is Kenrick's quick reference handbook.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+These notes are for personal use and do not constitute medical advice for either patients or other medical professionals. No claim is made to the accuracy or correctness of the content.
