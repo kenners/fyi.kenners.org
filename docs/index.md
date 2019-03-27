@@ -1,4 +1,4 @@
-# Welcome to Kenners QRH
+# Home
 
 This is Kenrick's quick reference handbook.
 

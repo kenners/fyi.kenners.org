@@ -42,3 +42,10 @@ markdown_extensions:
       permalink: true
   - footnotes
   - meta
+
+# Page tree
+nav:
+  - Home: index.md
+  - Obstetrics: obs.md
+  - Conditions:
+    - Angioedema: conditions/angioedema.md
