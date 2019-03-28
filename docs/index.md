@@ -1,4 +1,4 @@
-# Kenrick's Quick Reference Handbook
+# Home
 
 This is Kenrick's quick reference handbook.
 
