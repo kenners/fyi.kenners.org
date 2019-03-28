@@ -23,7 +23,15 @@ theme:
     text: 'B612'
     code: 'B612 Mono'
   logo:
-    icon: 'offline_bolt'
+    icon: 'done_outline'
+  favicon:
+  # 404 page
+  static_templates:
+    - 404.html
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
   feature: null
 
 
