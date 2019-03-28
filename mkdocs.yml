@@ -3,6 +3,7 @@ site_name: "Kenrick's QRH"
 site_description: 'A personal quick reference handbook'
 site_author: 'Kenrick Turner'
 site_url: 'https://qrh.kenners.org/'
+apple_web_app_title: 'QRH'
 
 # Repository
 repo_name: 'kenners/qrh'
