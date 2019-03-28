@@ -1,12 +1,12 @@
 # Project information
-site_name: 'Kenners QRH'
+site_name: 'Kenrick's QRH'
 site_description: 'A personal quick reference handbook'
 site_author: 'Kenrick Turner'
-site_url: 'https://fyi.kenners.org/'
+site_url: 'https://qrh.kenners.org/'
 
 # Repository
-repo_name: 'kenners/fyi.kenners.org'
-repo_url: 'https://github.com/kenners/fyi.kenners.org'
+repo_name: 'kenners/qrh'
+repo_url: 'https://github.com/kenners/qrh'
 
 # Copyright
 copyright: 'Copyright &copy; 2019 Kenrick Turner'
