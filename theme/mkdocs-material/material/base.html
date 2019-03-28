@@ -41,6 +41,10 @@
         <meta name="lang:{{ key }}" content="{{ lang.t(key) }}">
       {% endfor %}
       <link rel="shortcut icon" href="{{ config.theme.favicon | url }}">
+      <link rel="apple-touch-icon" href="{{ config.theme.appletouch.120 | url }}">
+      <link rel="apple-touch-icon" sizes="180x180" href="{{ config.theme.appletouch.180 | url }}">  
+      <link rel="apple-touch-icon" sizes="152x152" href="{{ config.theme.appletouch.152 | url }}">  
+      <link rel="apple-touch-icon" sizes="167x167" href="{{ config.theme.appletouch.167 | url }}">
       <meta name="generator" content="mkdocs-{{ mkdocs_version }}, mkdocs-material-4.1.0">
     {% endblock %}
     {% block htmltitle %}
@@ -82,7 +86,7 @@
     {% if config.extra.manifest %}
       <link rel="manifest" href="{{ config.extra.manifest | url }}">
       <meta name="mobile-web-app-capable" content="yes">
-      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="apple-mobile-web-app-capable" content="yes">  
     {% endif %}
 
     {% for path in config["extra_css"] %}
