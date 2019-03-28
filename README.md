@@ -1,2 +1,2 @@
-# fyi.kenners.org
+# Kenrick's QRH
 Quick reference notes
