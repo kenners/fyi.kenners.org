@@ -22,9 +22,8 @@ theme:
   font:
     text: 'B612'
     code: 'B612 Mono'
-  logo:
-    icon: 'done_outline'
-  favicon:
+  logo: 'assets/img/icons/icon.svg'
+  favicon: 'favicon.ico'
   # 404 page
   static_templates:
     - 404.html
@@ -39,7 +38,7 @@ extra:
   search:
     language: 'en'
     tokenizer: '[\s\-\.]+'
-  #manifest: 'manifest.webmanifest'
+  manifest: 'manifest.json'
 
 # Extensions
 markdown_extensions:

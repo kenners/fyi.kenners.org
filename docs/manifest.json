@@ -1,0 +1,26 @@
+{
+    "short_name": "QRH",
+    "name": "Kenrick's Quick Reference Handbook",
+    "icons": [
+        {
+        "src": "/assets/img/icons/192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+        },
+        {
+        "src": "/assets/img/icons/512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+        },
+        {
+        "src": "/assets/img/icons/1024.png",
+        "type": "image/png",
+        "sizes": "1024x1024"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#0072CE",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#009688"
+}
