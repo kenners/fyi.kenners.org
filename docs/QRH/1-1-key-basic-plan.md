@@ -31,7 +31,7 @@ This Key Basic Plan will detect and identify almost all initial problems, allowi
 
 !!! info "Isolate equipment"
     Ventilate lungs using self-inflating bag connected **directly** to tracheal tube connector.
-    
+
     **Do not** use the HME filter, angle piece or catheter mount.
 
     - If increased pressure manually confirmed, re-connect machine.
@@ -45,7 +45,7 @@ This Key Basic Plan will detect and identify almost all initial problems, allowi
 
 !!! tip "Breathing"
     Remember that airway ‘feel’ depends on your APL valve setting and fresh gas flow.
-    
+
     You can only “feel” a maximum of what the APL valve is set to. Measured expired tidal volume gives additional information.
 
 ## 4. Circulation
