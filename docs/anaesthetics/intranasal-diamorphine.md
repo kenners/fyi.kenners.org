@@ -13,14 +13,16 @@
 
 ## Prep
 
-- Consent from parent/guardian
-- Weigh child to nearest 10kg
+- Consent (if child, from parent/guardian)
+- Weigh patient
 - Baseline obs: HR, SpO2, RR, pain score
 - Prescribe dose: 0.1 mg/kg
 - Prepare total volume of 0.2 ml which will contain 0.1 mg/kg (concentration will vary according to bodyweight).
 - Dilute 5 mg diamorphine with specified volume of 0.9% saline (below):
  - Volume of dilutant = 10 / weight (kg)
 - Draw up 0.2 ml of diamorphine solution into 1 ml syringe
+
+In adults, use 7.5 mg if <65 kg, or 10 mg if >65 kg. Adults require 2 ampoules of 5 mg diamorphine and 2 x 1 ml syringes.
 
 ### Preparation from 5 mg diamorphine ampoule
 
@@ -36,12 +38,14 @@
 | 40 | 0.25 | 20 |
 | 50 | 0.20 | 25 |
 | 60 | 0.17 | 30 |
+| Adult <65 | Syringe 1: 0.2; Syringe 2: 0.4 | 5 + 12.5 |
+| Adult >65 | Syringe 1 & 2: 0.2 | 5 + 5 |
 
 ## Administration
 
 - Attach syringe to nasal atomiser
 - Tilt head gently backwards
-- Occlude one nostril, place atomiser into other nostril
+- Occlude one nostril, place atomiser into other nostril, aiming for tip of ipsilateral ear
 - Push syringe plunger at same time ask child to sniff
 - Leave atomiser in nostril, remove syringe, draw up air, and flush atomiser through with air from syringe
 
