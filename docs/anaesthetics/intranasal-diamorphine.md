@@ -48,10 +48,11 @@ In adults, use 7.5 mg if <65 kg, or 10 mg if >65 kg. Adults require 2 ampoules o
 - Occlude one nostril, place atomiser into other nostril, aiming for tip of ipsilateral ear
 - Push syringe plunger at same time ask child to sniff
 - Leave atomiser in nostril, remove syringe, draw up air, and flush atomiser through with air from syringe
+- Patient requires 15 minute obs for first hour after administration
 
 Common for child to sneeze or have funny taste in mouth.
 
-## Absorbption
+## Absorbtion
 
 Onset similar to IV route. Duration of peak effect is 20 minutes, but residual analgesia is longer lived.
 
