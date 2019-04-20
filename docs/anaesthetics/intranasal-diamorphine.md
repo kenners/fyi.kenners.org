@@ -1,4 +1,4 @@
-# Intransal diamorphine
+# Intranasal diamorphine
 
 ## Contraindications
 
@@ -43,12 +43,12 @@ In adults, use 7.5 mg if <65 kg, or 10 mg if >65 kg. Adults require 2 ampoules o
 
 ## Administration
 
-- Attach syringe to nasal atomiser
+- Attach syringe to Mucosal Atomiser Device (MAD300)
 - Tilt head gently backwards
 - Occlude one nostril, place atomiser into other nostril, aiming for tip of ipsilateral ear
 - Push syringe plunger at same time ask child to sniff
 - Leave atomiser in nostril, remove syringe, draw up air, and flush atomiser through with air from syringe
-- Patient requires 15 minute obs for first hour after administration
+- Patient requires 5 minute obs until back to baseline
 
 Common for child to sneeze or have funny taste in mouth.
 
@@ -56,9 +56,19 @@ Common for child to sneeze or have funny taste in mouth.
 
 Onset similar to IV route. Duration of peak effect is 20 minutes, but residual analgesia is longer lived.
 
+## Side effects
+
+Uncommon, but may include:
+- Respiratory depression
+- Hypotension
+- Nausea and vomiting
+- Pruritis
+- Chest wall rigidity (only reported in large intravenous doses)
+
 ## Naloxone
 
 - Initial dose: 10 microgram/kg bolus
 - Followed by 100 mcg/kg if no response
 - Max dose 2 mg
+
 
